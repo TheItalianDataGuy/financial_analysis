@@ -52,5 +52,3 @@ A line plot of gross profit across the months using Plotly.
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
